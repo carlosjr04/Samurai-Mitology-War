@@ -17,3 +17,7 @@ Deselvolvedores do projeto:
 
 Carlos Alberto Santos da Anunciação Junior
 Davi Wermelinger Neri Barbosa
+
+Link para o itch.io:
+
+https://carlos2104.itch.io/samurai-mitology-war
