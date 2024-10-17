@@ -1,7 +1,7 @@
 # Samurai Mitology War
  Jogo feito em pygame
 
-Hitória:
+História:
 
 Um jogo que retrata de forma fictícia um caos causado por um demônio no Japão feudal. Você será um Samurai que tem como objetivo restaurar a paz nessas terras, derrotando o conde do inferno,Raum. O herói do jogo passará por vários inimigos e obstáculos para que possa enfrentar o temível monstro.
 
