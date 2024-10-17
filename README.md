@@ -16,6 +16,7 @@ Para que possa jogar Samurai Mitology War será necessário uma IDE como Pycharm
 Deselvolvedores do projeto:
 
 Carlos Alberto Santos da Anunciação Junior
+
 Davi Wermelinger Neri Barbosa
 
 Link para o itch.io:
